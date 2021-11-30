@@ -8,5 +8,5 @@ export const options = {
 
 export default function () {
   http.get('https://www.devopstoolkitseries.com');
-  sleep(0.5);
+  sleep(1);
 }
